@@ -1,0 +1,2 @@
+# Bookstore Management System
+ this program is used in a bookstore to help the manager of the bookstore to see the sale and customer purchase history in the book store. the manager can also view, add and remove list of books that exist in the store,the program also can help our customer to find the book and see a list of shopping the books and estimate the total price of the books purchased in the store. there are two menus in the program that is special to admin and for customers. a password is required to log into the admin for security reasons
