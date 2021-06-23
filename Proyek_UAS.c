@@ -4,7 +4,6 @@
 //2. M. Farhan Haniftyaji - 2006468711
 //3. Valentinus - 2006468472
 
-
 #include <stdio.h>
 #include <omp.h>
 #include <stdlib.h>
